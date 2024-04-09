@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYI+G76kcyhbGy3MviDvzVmcZ63jEP9+A5Gdhdh5g6PKz72g6B9VEWgSAH2eN/zzELS+oKJOyice2s+IQ6MZCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\NetTest\\NetTest\\Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
